@@ -1,4 +1,4 @@
-Komal Batra's Portfolio Page.
+Winston Davis Portfolio Page.
 
 Developed using Bootstrap in conjuntion with my own CSS.
 
